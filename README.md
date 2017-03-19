@@ -9,12 +9,12 @@ This is a repository for my CS50 progress.
   - water
   - mario (more)
   - credit (more)
--pset2
+- pset2
   - initials (more)
   - caesar (less)
   - vigenere (less)
--pset3
+- pset3
   - find (less)
   - fifteen
--pset4
+- pset4
   - whodunit
