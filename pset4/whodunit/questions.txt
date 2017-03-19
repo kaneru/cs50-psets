@@ -1,0 +1,16 @@
+1.  stdint.h is a header that contains definitions of fixed-width integer types.
+2.  To use fixed amount of bytes for our defined types.
+3.  BYTE - 1 byte
+    DWORD - 4 bytes
+    LONG - 4 bytes
+    WORD - 2 bytes
+4.  In ASCII: "BM".
+5.  bfSize is a size in bytes of a file itself. biSize - the number of bytes required by the structure.
+6.  if biHeight < 0, the bitmap is a top-down DIB and its origin is the top-left corner.
+7.  biBitCount
+8.  TODO
+9.  TODO
+10. 3
+11. The function fread() reads nitems objects, each size bytes long, from the
+    stream pointed to by stream, storing them at the location given by ptr.
+12. Current position of the file pointer.
