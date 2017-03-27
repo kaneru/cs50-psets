@@ -18,3 +18,5 @@ This is a repository for my CS50 progress.
   - fifteen
 - pset4
   - whodunit
+  - resize (less)
+  - recover
